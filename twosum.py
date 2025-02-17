@@ -4,3 +4,4 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
                 sum = nums[i] + nums[j]
                 if sum == target:
                     return i,j
+                        ahhh
