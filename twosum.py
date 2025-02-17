@@ -6,4 +6,4 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
                     return i,j
                         
 
-does this part work
+
