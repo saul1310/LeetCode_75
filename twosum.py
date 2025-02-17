@@ -5,3 +5,5 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
                 if sum == target:
                     return i,j
                         
+
+does this part work
