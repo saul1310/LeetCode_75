@@ -13,4 +13,4 @@ class Solution:
         return 1 +  max(left_depth,right_depth)
         
 
-Binary
+
