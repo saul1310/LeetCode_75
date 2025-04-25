@@ -6,4 +6,4 @@
                 k += 1 -nums[l] 
                 l +=1
             mx =max(mx, r- l +1)
-        return m
+        return mx
